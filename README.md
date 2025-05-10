@@ -1,2 +1,2 @@
 # flutter_gex_template
-gex项目生成模版
+getx项目生成模版
